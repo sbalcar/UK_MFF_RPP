@@ -1,0 +1,12 @@
+ [Sekce 1]
+      ;dfd
+Option 1 = value 1                     ; volba 'Option 1' ma hodnotu 'value 1'
+
+Option 2 = value 2                     ; volba 'Option 2' ma hodnotu 'value 2'
+
+[Cisla]
+cele = -1285
+cele_bin = 0b01101001
+;fdf
+[Other]
+bool1 = 1

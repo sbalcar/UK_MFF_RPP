@@ -1,0 +1,22 @@
+[Sekce 1]
+Option 1 = 1
+oPtion 1 = 1
+frantisek 1 = tyhle
+[$Sekce::podsekce]
+Option 2 = 1
+Option 3 = 1
+Option 4 = 1
+Option 5 = 1
+[Cisla]
+cele = 1
+cele_bin = 1
+cele_hex = 1
+cele_oct = 1
+float1 = 1
+float2 = 1
+float3 = 1
+float4 = 1
+[Other]
+bool1 = 1
+bool2 = 1
+bool3 = 1
